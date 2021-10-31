@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitRepository\\RTL\\SourceCode\\RTLDomain\\RTLDomain.csproj": {}
+    "G:\\GitRepository\\RTL\\RTLSourceCode\\RTLDomain\\RTLDomain.csproj": {}
   },
   "projects": {
-    "G:\\GitRepository\\RTL\\SourceCode\\RTLDomain\\RTLDomain.csproj": {
+    "G:\\GitRepository\\RTL\\RTLSourceCode\\RTLDomain\\RTLDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitRepository\\RTL\\SourceCode\\RTLDomain\\RTLDomain.csproj",
+        "projectUniqueName": "G:\\GitRepository\\RTL\\RTLSourceCode\\RTLDomain\\RTLDomain.csproj",
         "projectName": "RTLDomain",
-        "projectPath": "G:\\GitRepository\\RTL\\SourceCode\\RTLDomain\\RTLDomain.csproj",
+        "projectPath": "G:\\GitRepository\\RTL\\RTLSourceCode\\RTLDomain\\RTLDomain.csproj",
         "packagesPath": "C:\\Users\\Safiullah\\.nuget\\packages\\",
-        "outputPath": "G:\\GitRepository\\RTL\\SourceCode\\RTLDomain\\obj\\",
+        "outputPath": "G:\\GitRepository\\RTL\\RTLSourceCode\\RTLDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

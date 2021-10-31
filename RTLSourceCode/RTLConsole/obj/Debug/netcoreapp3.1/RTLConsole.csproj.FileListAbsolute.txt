@@ -12,3 +12,17 @@ G:\GitRepository\RTL\SourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.cs
 G:\GitRepository\RTL\SourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.dll
 G:\GitRepository\RTL\SourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.pdb
 G:\GitRepository\RTL\SourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.genruntimeconfig.cache
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.exe
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.deps.json
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.runtimeconfig.json
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.runtimeconfig.dev.json
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.dll
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\bin\Debug\netcoreapp3.1\RTLConsole.pdb
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.csproj.AssemblyReference.cache
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.AssemblyInfoInputs.cache
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.AssemblyInfo.cs
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.csproj.CoreCompileInputs.cache
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.dll
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.pdb
+G:\GitRepository\RTL\RTLSourceCode\RTLConsole\obj\Debug\netcoreapp3.1\RTLConsole.genruntimeconfig.cache
