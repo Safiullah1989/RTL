@@ -1,0 +1,10 @@
+G:\GitRepository\RTL\SourceCode\RTLDomain\bin\Debug\netcoreapp3.1\RTLDomain.deps.json
+G:\GitRepository\RTL\SourceCode\RTLDomain\bin\Debug\netcoreapp3.1\RTLDomain.dll
+G:\GitRepository\RTL\SourceCode\RTLDomain\bin\Debug\netcoreapp3.1\RTLDomain.pdb
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.csproj.AssemblyReference.cache
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.AssemblyInfoInputs.cache
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.AssemblyInfo.cs
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.csproj.CoreCompileInputs.cache
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.dll
+G:\GitRepository\RTL\SourceCode\RTLDomain\obj\Debug\netcoreapp3.1\RTLDomain.pdb
